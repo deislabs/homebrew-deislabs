@@ -4,6 +4,8 @@ For users on MacOS, the Porter project maintains a <a href="https://brew.sh/">Ho
 
 <p align="center">Learn all about Porter at <a href="https://porter.sh">porter.sh</a></p>
 
+🚨 This isn't ready to use yet. We will update this page with the proper commands to run once our tap is complete!
+
 ---
 
 # Looking for Contributors
